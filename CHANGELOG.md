@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-16)
+## Unreleased (2025-07-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`07d7a23`](https://github.com/stdlib-js/stdlib/commit/07d7a2388a8916c3f70c18abcc51b4086898bb1a) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`3447088`](https://github.com/stdlib-js/stdlib/commit/3447088db3fbd5cb9b1e5a6146969277e2e375e8) - **feat:** add `stats/array/nanstdev` [(#7652)](https://github.com/stdlib-js/stdlib/pull/7652) _(by Gururaj Gurram, Athan Reines)_
 
 </details>
